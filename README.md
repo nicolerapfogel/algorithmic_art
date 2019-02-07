@@ -19,7 +19,7 @@ I chose the piece “42” by Channing Hansen because it combines the folksy cra
 [Here's a link to the piece](https://www.vice.com/en_us/article/qvdgbq/channing-hansen-hand-knit-paintings-dna-algorithms)
 
 ### Psuedo Code
-![Pseudo Code](images/pseudi.jpeg?raw=true "Pseudo Code")
+![Pseudo Code](images/pseudo.jpeg?raw=true "Pseudo Code")
 
 Here is an image of the Pseudo Code for my sketch using algorithms.
 
